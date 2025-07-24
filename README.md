@@ -20,9 +20,6 @@ An intelligent web-based medical diagnosis system that uses machine learning to 
 - **Multiple Pages**: Home, About, Contact, Developer, and Blog sections
 - **Clean UI**: Modern and intuitive user experience
 
-## 🚀 Live Demo
-
-Visit the live website: [Your Railway URL here]
 
 ## 📋 How to Use
 
@@ -110,9 +107,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
-**Krish Na**
-- GitHub: [@krish-na2004](https://github.com/krish-na2004)
-- Project: [CSP Medical Diagnosis](https://github.com/krish-na2004/CSP)
+**rasool meharaj khan**
+- GitHub: [@krish-na2004](https://github.com/rasoolmeharajkhan)
+- Project: [CSP Medical Diagnosis](https://github.com/rasoolmeharajkhan/CSP)
 
 ## 🙏 Acknowledgments
 
