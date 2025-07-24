@@ -108,7 +108,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Developer
 
 **rasool meharaj khan**
-- GitHub: [@krish-na2004](https://github.com/rasoolmeharajkhan)
+- GitHub: [@rasoolmeharajkhan](https://github.com/rasoolmeharajkhan)
 - Project: [CSP Medical Diagnosis](https://github.com/rasoolmeharajkhan/CSP)
 
 ## 🙏 Acknowledgments
